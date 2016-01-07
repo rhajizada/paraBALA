@@ -7,7 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
-		5A4D0D471C3DE0E30040F2A5 /* main.c in Sources */ = {isa = PBXBuildFile; fileRef = 5A4D0D461C3DE0E30040F2A5 /* main.c */; };
+		5A4D0D471C3DE0E30040F2A5 /* parabala.c in Sources */ = {isa = PBXBuildFile; fileRef = 5A4D0D461C3DE0E30040F2A5 /* parabala.c */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXCopyFilesBuildPhase section */
@@ -24,7 +24,8 @@
 
 /* Begin PBXFileReference section */
 		5A4D0D431C3DE0E30040F2A5 /* parabala */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = parabala; sourceTree = BUILT_PRODUCTS_DIR; };
-		5A4D0D461C3DE0E30040F2A5 /* main.c */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.c; path = main.c; sourceTree = "<group>"; };
+		5A4D0D461C3DE0E30040F2A5 /* parabala.c */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.c; path = parabala.c; sourceTree = "<group>"; };
+		5A4D0D4D1C3DE10D0040F2A5 /* parabala.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = parabala.h; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -57,7 +58,8 @@
 		5A4D0D451C3DE0E30040F2A5 /* parabala */ = {
 			isa = PBXGroup;
 			children = (
-				5A4D0D461C3DE0E30040F2A5 /* main.c */,
+				5A4D0D461C3DE0E30040F2A5 /* parabala.c */,
+				5A4D0D4D1C3DE10D0040F2A5 /* parabala.h */,
 			);
 			path = parabala;
 			sourceTree = "<group>";
@@ -118,7 +120,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				5A4D0D471C3DE0E30040F2A5 /* main.c in Sources */,
+				5A4D0D471C3DE0E30040F2A5 /* parabala.c in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
