@@ -6,14 +6,6 @@
 //  Copyright © 2016 Rufat Hajizada. All rights reserved.
 //
 
-//
-//  main.c
-//  newparabala
-//
-//  Created by Rufat Hajizada on 12/13/15.
-//  Copyright © 2015 Rufat Hajizada. All rights reserved.
-//
-
 #include "parabala.h"
 int main(void){
     char UserInput;
